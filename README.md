@@ -63,4 +63,4 @@ Le TP fait suite au TP sur les arbres de décision (voir **https://github.com/Ou
 
 ## Auteure
 
-**Oumou** - Master 2 Data & Business Intelligence, ISTIC - Université de Rennes
+**Oumou BAH** - Master 2 Data & Business Intelligence, ISTIC - Université de Rennes
