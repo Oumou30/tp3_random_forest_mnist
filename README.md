@@ -2,7 +2,7 @@
 
 ## Description du projet
 
-Ce projet est un travail pratique (TP) réalisé dans le cadre du Master 2 Data & Business Intelligence à l'ISTIC — Université de Rennes. Il porte sur l'utilisation des **forêts aléatoires (Random Forest)** pour la classification de chiffres manuscrits issus du dataset MNIST.
+Ce projet est un travail pratique (TP) réalisé dans le cadre du Master 2 Data & Business Intelligence à l'ISTIC - Université de Rennes. Il porte sur l'utilisation des **forêts aléatoires (Random Forest)** pour la classification de chiffres manuscrits issus du dataset MNIST.
 
 Le TP fait suite au TP sur les arbres de décision (voir **https://github.com/Oumou30/tp-decision-tree/**) et explore comment les méthodes d'ensemble améliorent les performances par rapport à un arbre unique. L'impact de la représentation des données est également étudié via les descripteurs HOG.
 
@@ -24,10 +24,10 @@ Le TP fait suite au TP sur les arbres de décision (voir **https://github.com/Ou
 ## Technologies et bibliothèques
 
 - **Python 3**
-- **NumPy** / **Pandas** — manipulation de données
-- **Matplotlib** — visualisation
-- **Scikit-learn** — `RandomForestClassifier`, `train_test_split`
-- **Scikit-image** — lecture d'images et extraction de descripteurs HOG (`skimage.feature.hog`)
+- **NumPy** / **Pandas** - manipulation de données
+- **Matplotlib** - visualisation
+- **Scikit-learn** - `RandomForestClassifier`, `train_test_split`
+- **Scikit-image** - lecture d'images et extraction de descripteurs HOG (`skimage.feature.hog`)
 
 ## Concepts clés abordés
 
